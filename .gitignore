@@ -29,3 +29,8 @@
 *.exe
 *.out
 *.app
+BUILD
+.mbed
+iotkit
+mbed-os
+mfrc522
