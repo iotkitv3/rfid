@@ -608,6 +608,7 @@ Die URI kann dann von einem NFC-fähigen Smartphone / Tablet (evtl. Schutzhülle
 
 ### Links
 
+* [MFRC522 Library](https://github.com/iotkitv3/MFRC522)
 * [Produktseite](https://www.st.com/en/nfc/m24sr-series-dynamic-nfc-tags.html)
 
 
